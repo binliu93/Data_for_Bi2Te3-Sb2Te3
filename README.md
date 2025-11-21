@@ -4,6 +4,8 @@ Anyone can send email to me: binliuhy@tsinghua.edu.cn
 
 ## Dataset Overview
 
+| Property | Value |
+|----------|-------|
 | Total configurations | 2,077 |
 
 ## Configuration Types
